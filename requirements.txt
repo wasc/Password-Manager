@@ -1,0 +1,3 @@
+cryptography
+prettytable
+textwrap3
