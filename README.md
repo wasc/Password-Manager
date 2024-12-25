@@ -1,8 +1,8 @@
-# About the Project:
-It's a simple Python password manager. It's easy to use, so you'll be able to use it without much difficulty.
+# About the Project
+**It's a simple Python password manager. It's easy to use, so you'll be able to use it without much difficulty.**
 
 ## Screenshots:
-
+![Screenshot_1](https://github.com/user-attachments/assets/76af0029-78ec-44bc-ba73-31021c7325a0)
 
 ## Options:
 Option | Description
@@ -16,7 +16,7 @@ Option | Description
 **7**  | Exit the program.
 
 ## Requirements:
-***Python 3***
+* ***Python 3***
 
 ## Installation:
 Clone the repository:
@@ -27,7 +27,7 @@ Enter the directory:
 ```
 cd Password-Manager/
 ```
-install the require python packages, and run the main file:
+install the required python packages, and run the main file:
 ```
 pip install -r requirements.txt
 python password_manager.py
@@ -38,6 +38,6 @@ The Password Manager has been tested on:
 * **Windows 10, 11**
 * **Kali Linux**
 * **Ubuntu**
-#### It works well in a Debian Linux environment.
+### It works well in a Debian Linux, Windows 10, 11
 
 
